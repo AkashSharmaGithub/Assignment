@@ -1,0 +1,17 @@
+{
+    "name": "MagicCraft.Shared",
+    "rootNamespace": "MagicCraft.Shared",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:a4ed599910185f74d939889b0c0e5d8c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
